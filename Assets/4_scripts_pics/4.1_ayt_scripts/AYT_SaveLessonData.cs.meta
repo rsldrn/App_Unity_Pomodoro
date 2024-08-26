@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d42bc5beac904164b82522039214b0cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aytSos1CorrectInputField: {instanceID: 0}
+  - aytSos1WrongInputField: {instanceID: 0}
+  - aytSos1EmptyInputField: {instanceID: 0}
+  - aytSos2CorrectInputField: {instanceID: 0}
+  - aytSos2WrongInputField: {instanceID: 0}
+  - aytSos2EmptyInputField: {instanceID: 0}
+  - aytMatematikCorrectInputField: {instanceID: 0}
+  - aytMatematikWrongInputField: {instanceID: 0}
+  - aytMatematikEmptyInputField: {instanceID: 0}
+  - aytFenCorrectInputField: {instanceID: 0}
+  - aytFenWrongInputField: {instanceID: 0}
+  - aytFenEmptyInputField: {instanceID: 0}
+  - aytLessonData: {fileID: 11400000, guid: ee298f2e297127d4a8065a77b156529a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

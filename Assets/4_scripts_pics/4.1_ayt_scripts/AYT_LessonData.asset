@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c192105f4ff4fd42a8093876facef00, type: 3}
+  m_Name: AYT_LessonData
+  m_EditorClassIdentifier: 
+  aytTurkceCorrectAnswers: 0
+  aytTurkceWrongAnswers: 0
+  aytTurkceEmptyAnswers: 0
+  aytMatematikCorrectAnswers: 0
+  aytMatematikWrongAnswers: 0
+  aytMatematikEmptyAnswers: 0
+  aytFenCorrectAnswers: 0
+  aytFenWrongAnswers: 0
+  aytFenEmptyAnswers: 0
+  aytSosyalCorrectAnswers: 0
+  aytSosyalWrongAnswers: 0
+  aytSosyalEmptyAnswers: 0
+  ayt_lastFiveNets: []

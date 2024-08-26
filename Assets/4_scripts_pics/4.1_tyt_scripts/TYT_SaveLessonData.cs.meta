@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dbd49eaa0d3d710468956ba864dd0606
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tytTurkceCorrectInputField: {instanceID: 0}
+  - tytTurkceWrongInputField: {instanceID: 0}
+  - tytTurkceEmptyInputField: {instanceID: 0}
+  - tytMatematikCorrectInputField: {instanceID: 0}
+  - tytMatematikWrongInputField: {instanceID: 0}
+  - tytMatematikEmptyInputField: {instanceID: 0}
+  - tytFenCorrectInputField: {instanceID: 0}
+  - tytFenWrongInputField: {instanceID: 0}
+  - tytFenEmptyInputField: {instanceID: 0}
+  - tytSosyalCorrectInputField: {instanceID: 0}
+  - tytSosyalWrongInputField: {instanceID: 0}
+  - tytSosyalEmptyInputField: {instanceID: 0}
+  - tytLessonData: {fileID: 11400000, guid: 30638a1cd9bf5a54f9271e7eebd50486, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
